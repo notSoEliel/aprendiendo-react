@@ -1,0 +1,9 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-color: #222;
+    color: #fdfdfd;
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+}
